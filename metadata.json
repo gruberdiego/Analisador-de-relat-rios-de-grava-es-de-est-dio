@@ -1,0 +1,7 @@
+{
+  "name": "Analisador de Planilhas de Estúdio",
+  "description": "Uma aplicação web para fazer upload e analisar planilhas de registros de gravações de estúdios de TV usando a API Gemini para extrair insights e visualizar dados.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
